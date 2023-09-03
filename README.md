@@ -1,5 +1,5 @@
 
-# RevuVue: AI-powered Review Summarizer
+# 🌟RevuVue: AI-powered Review Summarizer🌟
 
 Leverage OpenAI's API to distill customer reviews into a concise summary. With the UI powered by Streamlit and review management via sqlite3, RevuVue demonstrates how to tie multiple technologies together to provide a seamless experience. Perfect demonstration for leveraging LLM for quickly deploying a custom solution.
 
